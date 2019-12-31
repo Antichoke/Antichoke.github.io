@@ -5,7 +5,7 @@ permalink: /collection/
 icon: bookmark
 type: page
 ---
-
+'''
 * content
 {:toc}
 
@@ -293,3 +293,4 @@ Syntax Theme: Atom Dark or One Dark
 ## Comments
 
 {% include comments.html %}
+'''
